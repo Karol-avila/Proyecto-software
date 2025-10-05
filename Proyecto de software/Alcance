@@ -1,0 +1,64 @@
+## Alcance del Proyecto  
+
+El proyecto **Campus Conecta** tiene como alcance el **diseño y desarrollo de una aplicación web** orientada a centralizar materiales académicos, facilitar el intercambio de habilidades y promover la colaboración entre estudiantes universitarios de distintas instituciones en Colombia.  
+
+Esta primera fase del proyecto se enfocará en la **creación de prototipos funcionales en Figma**, priorizando la experiencia del usuario y la validación del concepto mediante pruebas con un grupo piloto de estudiantes. No se desarrollará código de manera completa, sino que se representarán las principales funcionalidades del sistema a nivel visual e interactivo.  
+
+### Incluye:
+- Diseño y prototipado de una **aplicación web responsiva** (móvil y escritorio).  
+- **Prototipo de alta fidelidad** del módulo de registro y autenticación de usuarios.  
+- **Prototipo funcional** del módulo de subida, descarga y visualización de documentos académicos (PDF).  
+- **Sistema de etiquetado y búsqueda** por materia, universidad o tipo de documento.  
+- **Módulo de muro social (feed)** para publicaciones, preguntas o ideas.  
+- **Base de datos simulada (Supabase)** para representar la persistencia de datos.  
+
+### Excluye:
+- Desarrollo completo de la aplicación (backend y frontend en código).  
+- Aplicaciones móviles nativas (iOS/Android).  
+- Integración con plataformas académicas universitarias.  
+- Sistemas de evaluación o calificación por parte de docentes.  
+- Funcionalidades de chat privado o mensajería en tiempo real.  
+
+### Restricciones:
+- El proyecto se limita a la fase de **diseño y validación del prototipo**, no incluye implementación real del sistema.  
+- La **validación de usuarios** se realizará con un grupo reducido de estudiantes universitarios.  
+- No se contemplan **integraciones externas** ni autenticaciones avanzadas (como Google o Microsoft).  
+- El **alcance temporal** cubre únicamente las etapas de ideación, diseño y prototipado.  
+
+### Criterios de Aceptación:
+- El prototipo debe permitir una navegación fluida entre los módulos principales.  
+- Debe representar correctamente las funcionalidades definidas en el alcance.  
+- La interfaz debe ser **intuitiva, atractiva y responsiva** en diferentes dispositivos.  
+- Los usuarios del grupo piloto deben identificar mejoras en accesibilidad, organización y colaboración académica.  
+
+
+## Herramienta de Design Thinking: Mapa de Empatía  
+
+Para el desarrollo del proyecto **Campus Conecta**, se aplicó la fase **Empatizar – Definir** del enfoque **Design Thinking**, utilizando la herramienta **Mapa de Empatía**.  
+Esta herramienta permitió comprender profundamente las necesidades, frustraciones y motivaciones de los principales usuarios de la plataforma: **estudiantes universitarios** y **la comunidad académica**.  
+
+A través del análisis de encuestas, entrevistas y observaciones, se identificaron patrones comunes en sus comportamientos y expectativas frente al acceso a recursos educativos, la colaboración y la interacción digital.
+
+### Mapa de Empatía
+
+| Cuadrante | Estudiante Universitario | Comunidad Académica (Docentes/Universidades) |
+|------------|--------------------------|----------------------------------------------|
+| **Piensa y siente** | Necesito un espacio confiable y rápido para estudiar. <br> Me frustra perder tiempo buscando material de calidad. | Necesitamos estudiantes con acceso a fuentes verificadas y actualizadas. <br> Queremos fomentar el aprendizaje autónomo. |
+| **Ve** | Plataformas desorganizadas, grupos de redes sociales caóticos y documentos sin fuentes claras. | Escasa colaboración entre universidades y falta de un entorno académico digital compartido. |
+| **Oye** | Que otros compañeros usan foros informales o materiales poco confiables. | Que los estudiantes enfrentan desinformación y recursos poco estructurados. |
+| **Dice y hace** | Busco material en diferentes redes y páginas, pero me cuesta encontrar algo útil. <br> Quiero compartir lo que sé. | Promuevo espacios colaborativos, pero carezco de una plataforma que los unifique. |
+
+---
+
+### Justificación del Uso de Design Thinking  
+
+El uso de la metodología **Design Thinking** se justifica porque permite **centrar el diseño del proyecto en las necesidades reales del usuario final**. En lugar de construir una solución puramente técnica, se busca comprender y definir el problema desde la perspectiva de quienes enfrentan la dificultad: los estudiantes y actores del entorno académico.  
+
+A través de las fases **Empatizar** y **Definir**, se logró:  
+
+- Identificar los principales **dolores, deseos y comportamientos** de los estudiantes frente al aprendizaje digital.  
+- Comprender los **retos académicos y tecnológicos** que limitan la colaboración interuniversitaria.  
+- Definir con claridad el **problema central** que resolverá la plataforma: la falta de un espacio digital confiable, centralizado y participativo para compartir conocimiento.  
+- Alinear las funcionalidades del proyecto con los **valores y objetivos** de la comunidad educativa.  
+
+En conclusión, la aplicación del Design Thinking asegura que **Campus Conecta** no sea solo una solución tecnológica, sino una **respuesta empática, funcional y sostenible** ante las verdaderas necesidades del entorno educativo colombiano.
