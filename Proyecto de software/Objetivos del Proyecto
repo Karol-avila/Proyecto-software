@@ -1,0 +1,24 @@
+## Objetivos del Proyecto
+
+Los objetivos del proyecto **Campus Conecta** están orientados a responder a la necesidad identificada de crear un entorno digital unificado que facilite el acceso a recursos académicos, promueva el intercambio de habilidades y fortalezca la colaboración entre estudiantes universitarios de distintas instituciones en Colombia.  
+
+---
+
+### Objetivo General
+
+**Desarrollar y prototipar una aplicación web colaborativa llamada “Campus Conecta”, que centralice materiales académicos, fomente la interacción entre estudiantes y facilite el intercambio de habilidades, con el fin de mejorar la calidad del aprendizaje y la cooperación interuniversitaria.**
+
+---
+
+### Objetivos Específicos
+
+1. **Analizar las necesidades y problemáticas académicas** que enfrentan los estudiantes universitarios en Colombia, mediante la aplicación de metodologías de investigación y herramientas de Design Thinking (Empatizar – Definir).  
+2. **Diseñar un prototipo funcional de la aplicación web**, que incluya los módulos principales: registro, autenticación, carga y descarga de documentos, búsqueda por categorías y muro de publicaciones.  
+3. **Implementar un diseño responsivo y accesible** en Figma, que garantice la usabilidad y navegabilidad en dispositivos móviles y de escritorio.  
+4. **Validar el prototipo con un grupo piloto de usuarios**, recopilando retroalimentación sobre la experiencia de uso, accesibilidad y funcionalidad para realizar mejoras iterativas.  
+5. **Documentar el desarrollo del proyecto** siguiendo la estructura de la norma APA 7 y las prácticas de gestión ágil en Jira y GitHub, asegurando trazabilidad y trabajo colaborativo en cada fase.  
+
+---
+
+**Conclusión:**  
+Estos objetivos buscan garantizar que el proyecto **Campus Conecta** no solo responda a una necesidad técnica, sino también **educativa y social**, aportando una solución digital empática, funcional y sostenible dentro del contexto académico colombiano.
