@@ -1,0 +1,24 @@
+# Técnica de los 5 ¿Por qué?
+
+| Pregunta | Respuesta Inicial | 1er Por qué | 2do Por qué | 3er Por qué | 4to Por qué |
+|----------|-----------------|------------|------------|------------|------------|
+| ¿Puede usted encontrar información o tareas académicas rápidamente en las plataformas que usa actualmente? | No | Porque los materiales están dispersos entre varias plataformas, lo que hace perder mucho tiempo y muchas veces no es seguro encontrar la mejor versión de la información | Porque no existe un punto único de acceso confiable | Por qué no existe un sistema centralizado que organice y verifique la información | Porque la facilidad que hay de compartir datos actualmente solo provoca desinformación en muchos casos |
+| ¿Cree que le resulta fácil resolver sus dudas académicas en los grupos o foros donde participa? | No | Porque muchas veces las dudas se pierden entre tantos mensajes y no siempre hay alguien disponible que pueda dar una respuesta clara y completa | Porque los grupos y foros de información no están organizados ni moderados de manera efectiva | Por qué los mensajes se mezclan, las dudas quedan sin respuesta y es difícil encontrar información confiable rápidamente | Porque no hay un sistema que clasifique los mensajes ni verifique las respuestas, lo que hace que la información se vuelva confusa e inaccesible |
+| ¿Confía en que los documentos o recursos que encuentra en línea sean de buena calidad y relevantes? | No, siempre | Porque muchos documentos están desactualizados, incompletos o no verifican su fuente | Por la cantidad de datos que se suben constantemente lo que no lo hace seguro | Porque un control efectivo de calidad dificulta asegurar que los recursos sean confiables y relevantes | Porque incluso la inteligencia artificial no es confiable del todo |
+| ¿Cree que compartir sus propios conocimientos o habilidades con otros estudiantes le ayudaría a mejorar su aprendizaje? | Sí | Porque al explicar mis ideas o enseñar lo que sé, refuerzo mis conocimientos | Porque enseñar o explicar las ideas activan el aprendizaje, ayudando a comprender mejor los conceptos y consolidar lo que se sabe | Porque al enseñar o explicar las ideas, se refuerzan las conexiones mentales | Porque permite crecer y reforzar los conocimientos y actualizar la información que ya se tiene |
+| ¿Ha tenido oportunidad de aprender habilidades prácticas de otros estudiantes en su universidad? | Sí | Porque en trabajos grupales y talleres se puede observar cómo compañeros resuelven problemas y aplican diferentes métodos de investigación y aprendizaje | Porque permite aplicar diferentes técnicas de investigación y aprendizaje, reforzando así las habilidades prácticas | Porque diferentes técnicas de investigación y aprendizaje desarrollan competencias prácticas de manera activa, preparando mejor a los estudiantes para enfrentar problemas reales | Porque se fortalece la capacidad de análisis, resolución y adaptación, adquiriendo habilidades transferibles que serán útiles en su vida académica y profesional |
+
+*Tabla 1: Técnica de los 5 Por qué – Design Thinking*
+
+---
+
+# Matriz de Motivación
+
+| Actor Clave | Problema Actual | Motivación Central | Recompensa y Valor Ofrecido por Campus Conecta |
+|------------|----------------|------------------|-----------------------------------------------|
+| Estudiante Buscador de Información | Material disperso, desactualizado y pérdida de tiempo en la búsqueda. | Ahorro de Tiempo y Confianza: Acceder a recursos de alta calidad de manera rápida y segura. | Eficiencia y Calidad: Acceso a un Repositorio Verificado y Centralizado (eliminando la incertidumbre). |
+| Estudiante Contribuyente | Las respuestas se pierden en foros desorganizados; el conocimiento propio no se valora. | Validación y Reconocimiento: Recibir crédito y reputación por sus conocimientos y ayuda. | Estatus y Reputación: Un Sistema de Puntos y Reputación que valide sus respuestas, clasificándolo como un experto en su área. |
+| Estudiante Colaborador | Limitación a su círculo de compañeros; falta de exposición a otros enfoques de aprendizaje. | Desarrollo y Refuerzo: Consolidar su propio aprendizaje y adquirir nuevas habilidades prácticas. | Aprendizaje Mutuo: Acceso al Módulo de Intercambio de Habilidades (reforzando conocimientos al enseñar) y la oportunidad de aprender nuevas técnicas de otros. |
+| Comunidad Académica Interuniversitaria | Falta de un espacio unificado que genere valor y conecte el conocimiento de diferentes instituciones. | Interconexión y Crecimiento Colectivo: Construir una comunidad que eleve el nivel académico general. | Comunidad Fuerte: Creación de un Ecosistema Sostenible de Conocimiento que reduce la desigualdad de acceso a material de calidad. |
+
+*Tabla 2: Matriz de motivación – Técnica Design Thinking*
